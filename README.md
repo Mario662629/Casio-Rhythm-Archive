@@ -39,11 +39,12 @@ Follow the instructions under "To edit and save an Auto Accompaniement" in the c
 If "Err Mem Full" appears on the display during the process, delete some other unused data in keyboard memory, then retry.
 
 ### Copying the rhythm file to a computer:
-#### If you have an SD card with a size <= 2GB (CTK-4000 and CTK-5000 groups), or <=32GB (CTK-4200 and CDP-220R groups):
+#### If you have an SD card with a size ≤ 2GB (CTK-4000 and CTK-5000 sets), or ≤ 32GB (CTK-4200 and CDP-220R sets):
 1. Select the user rhythm slot containing the rhythm you want to save.
 2. Follow the instructions under "Saving Digital Keyboard Data to a Memory Card" in the chapter "Using a Memory Card" in the user manual.
 3. Insert the SD card into your computer, and copy the .AC7 file(s) that were saved to your main drive.
 If "Err Format" appears on the display after step 2, follow the steps under "Formatting a Memory Card" in the manual.
 
-#### If you don't have an SD card with a size <= 2GB, or your keyboard doesn't support SD cards:
+#### If you don't have an SD card with a size ≤ 2GB, or your keyboard doesn't support SD cards:
 The following keyboards on the list support SD cards: CTK-5000, CTK-5200, WK-500, LK-270, LK-280, CDP-200R, CDP-220R, CDP-230R, CDP-235R, CDP-240R. If you have a keyboard other than one of these, use Casio Data Manager 5.0. You'll need a Windows computer or virtual machine in order to do this. Follow the instructions in the manual: https://support.casio.com/download_files/008/DATAMANAGERE1D.pdf
+
