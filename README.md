@@ -1,4 +1,4 @@
-# casio-rhythm-archive
+# Casio Rhythm Archive
 I am copying various built-in rhythms from Casio keyboards. The purpose of this was to collect the rhythm files to be able to load them on keyboards that don't have them built-in.
 
 ## Keyboards with rhythm sets in common
@@ -47,4 +47,5 @@ If "Err Format" appears on the display after step 2, follow the steps under "For
 
 #### If you don't have an SD card with a size ≤ 2GB, or your keyboard doesn't support SD cards:
 The following keyboards on the list support SD cards: CTK-5000, CTK-5200, WK-500, LK-270, LK-280, CDP-200R, CDP-220R, CDP-230R, CDP-235R, CDP-240R. If you have a keyboard other than one of these, use Casio Data Manager 5.0. You'll need a Windows computer or virtual machine in order to do this. Follow the instructions in the manual: https://support.casio.com/download_files/008/DATAMANAGERE1D.pdf
+
 
